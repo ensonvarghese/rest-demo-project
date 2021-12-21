@@ -1,2 +1,2 @@
-# restdemp
-a small REST API demo project with CRUD operation
+#Simple REST API
+a simple CRUD operation project with REST API 
